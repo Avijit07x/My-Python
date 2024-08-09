@@ -1,0 +1,3 @@
+import su
+
+su.welcome()
