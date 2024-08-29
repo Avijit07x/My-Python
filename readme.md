@@ -10,7 +10,7 @@ Welcome to my Python Repository! This repository contains all the code, scripts 
 - **Data Structures**: Lists, tuples, dictionaries, sets, and their operations.
 - **File Handling**: Reading and writing files, working with different file types.
 - **Error Handling**: Try-except blocks, handling exceptions, and custom error messages.
-- **Advanced Concepts**: Decorators, generators, and context managers.
+
 
 
 ## How to Use This Repository
