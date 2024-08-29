@@ -53,7 +53,7 @@ For any questions or suggestions, feel free to reach out:
 
 - **LinkedIn :** [Avijit07x](https://www.linkedin.com/in/avijit07x/)
 - **Twitter :** [Avijit07x](https://twitter.com/Avijit07x)
-- **Portfolio :** [Check my portfolio](https://avijit07x-portfolio.vercel.app)
+- **Portfolio :** [https://avijit07x-portfolio.vercel.app](https://avijit07x-portfolio.vercel.app)
 
 
 Happy coding! 🚀
